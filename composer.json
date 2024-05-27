@@ -1,0 +1,17 @@
+{
+    "name": "pututiara/konversi",
+    "description": "Berisikan fungsi untuk mengkonversi tanggal sekarang menjadi format bahasa Indonesia",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Pututiara\\Konversi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pututiaraa",
+            "email": "niputu222222@gmail.com"
+        }
+    ],
+    "require": {}
+}
